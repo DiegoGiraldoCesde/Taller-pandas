@@ -1,6 +1,8 @@
-# Taller práctico Momento 2: análisis de datos con Pandas
+# Taller práctico: análisis de datos con Pandas
 
 Programa de consola que lee datos de ventas y clientes, los limpia, los une y los analiza. Se ejecuta desde un menú en la terminal, y cada opción corresponde a un módulo que vas a completar paso a paso.
+
+Recuerda consultar la guía adjunta en PDF donde se te dará el paso a paso del trabajo.
 
 ## Requisitos
 
@@ -73,7 +75,7 @@ Las funciones que aún no completaste no dan error: devuelven los datos sin camb
 
 ## Entregables
 
-Consulta el documento del taller (`Taller_Pandas_Momento2_corregido.docx`) para ver el detalle de cada entregable y la rúbrica. En resumen:
+Consulta el documento del taller (`guia_Taller_Pandas.pdf`) para ver el detalle de cada entregable y la rúbrica. En resumen:
 
 - Entregable 0: pantallazo del ambiente virtual activo y de la instalación.
 - Entregable 1: pantallazos de `.shape`, `.info()` y `.describe()`, y salida de `exploracion.py`.
